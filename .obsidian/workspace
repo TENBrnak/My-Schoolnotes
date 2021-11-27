@@ -1,0 +1,99 @@
+{
+  "main": {
+    "id": "e586871b75f0d283",
+    "type": "split",
+    "children": [
+      {
+        "id": "2fe268cfe9aeaa1b",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7545c763dec9b8cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "3efa03e33d868582",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1af44368700fa297",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "173842e4f4adf2c3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "#biologie",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9f899acce9471a45",
+    "type": "split",
+    "children": [
+      {
+        "id": "71fd4aa6cbf25b7c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a1ce312059501f00",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notes/Ekonmické směry.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "2fe268cfe9aeaa1b",
+  "lastOpenFiles": [
+    "Notes/Ekonmické směry.md",
+    "Notes/Keynesiánství.md",
+    "Notes/John Maynard Keynes.md",
+    "Notes/Merkantilismus.md",
+    "Notes/Japonsko.md",
+    "Notes/Čína.md",
+    "Notes/Kůže.md",
+    "Dejepis otazky.md",
+    "Notes/Gotické umění.md",
+    "Notes/Vaječníky.md"
+  ]
+}
