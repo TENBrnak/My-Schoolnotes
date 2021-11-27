@@ -7,8 +7,11 @@
         "id": "2fe268cfe9aeaa1b",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Dejepis otazky.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -65,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Ekonmické směry.md",
+                "file": "Dejepis otazky.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,6 +88,7 @@
   },
   "active": "2fe268cfe9aeaa1b",
   "lastOpenFiles": [
+    "Dejepis otazky.md",
     "Notes/Ekonmické směry.md",
     "Notes/Keynesiánství.md",
     "Notes/John Maynard Keynes.md",
@@ -92,7 +96,6 @@
     "Notes/Japonsko.md",
     "Notes/Čína.md",
     "Notes/Kůže.md",
-    "Dejepis otazky.md",
     "Notes/Gotické umění.md",
     "Notes/Vaječníky.md"
   ]
