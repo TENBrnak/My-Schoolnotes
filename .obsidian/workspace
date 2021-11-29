@@ -4,10 +4,10 @@
     "type": "split",
     "children": [
       {
-        "id": "ea21c889ea023746",
+        "id": "da77197cd392a414",
         "type": "leaf",
         "state": {
-          "type": "graph",
+          "type": "empty",
           "state": {}
         }
       }
@@ -82,17 +82,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ea21c889ea023746",
+  "active": "da77197cd392a414",
   "lastOpenFiles": [
+    "Notes/Amerika.md",
+    "Notes/Ekonomie aktuality.md",
     "Dejepis otazky.md",
-    "Ekonomie aktuality.md",
     "Notes/Old man and the sea.md",
     "Notes/Ekonmické směry.md",
     "Notes/Keynesiánství.md",
     "Notes/John Maynard Keynes.md",
     "Notes/Merkantilismus.md",
     "Notes/Japonsko.md",
-    "Notes/Čína.md",
-    "Notes/Kůže.md"
+    "Notes/Čína.md"
   ]
 }
