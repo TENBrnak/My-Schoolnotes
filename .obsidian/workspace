@@ -1,14 +1,17 @@
 {
   "main": {
-    "id": "e586871b75f0d283",
+    "id": "6f8ce65910489dd8",
     "type": "split",
     "children": [
       {
-        "id": "da77197cd392a414",
+        "id": "a1c84fb51bb35539",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Dejepis otazky.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -36,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "old",
+                "query": "#history",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Dejepis otazky.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "da77197cd392a414",
+  "active": "a1c84fb51bb35539",
   "lastOpenFiles": [
-    "Notes/Amerika.md",
-    "Notes/Ekonomie aktuality.md",
     "Dejepis otazky.md",
-    "Notes/Old man and the sea.md",
-    "Notes/Ekonmické směry.md",
+    "Německá menšina v pohraničí.md",
+    "Notes/První republika.md",
+    "Koaliční vlády.md",
+    "Notes/Dejepis otazky.md",
     "Notes/Keynesiánství.md",
-    "Notes/John Maynard Keynes.md",
-    "Notes/Merkantilismus.md",
-    "Notes/Japonsko.md",
-    "Notes/Čína.md"
+    "Notes/Monetarismus.md",
+    "Notes/Ekonmické směry.md",
+    "Notes/Marxismus.md",
+    "Notes/Neoklasická ekonomie.md"
   ]
 }
