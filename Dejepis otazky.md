@@ -19,3 +19,4 @@ Kdo tu byl? Masaryk, Kramář, Beneš, Rašín
 na základě jaké události se přidali slováci? schůze v Ženevě
 
 Vyhlášení Československa 28. října, Alois Rašín, Antonín Švehla, František Soukup, Jiří Stříbrný, Vávro Šrobár
+pull attempt
