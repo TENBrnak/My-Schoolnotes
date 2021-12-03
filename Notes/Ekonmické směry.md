@@ -7,4 +7,5 @@
 6. [[Marxismus]]
 7. [[Keynesiánství]]
 8. [[Monetarismus]]
+9. [[Rakouská ekonomická škola]]
 #social

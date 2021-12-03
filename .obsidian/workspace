@@ -1,16 +1,27 @@
 {
   "main": {
-    "id": "6f8ce65910489dd8",
+    "id": "da9b8353d30cf79c",
     "type": "split",
     "children": [
       {
-        "id": "a1c84fb51bb35539",
+        "id": "f39900b66b220fa9",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Dejepis otazky.md",
+            "file": "Notes/Ekonmické směry.md",
             "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "57e895eff71f404f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Rakouská ekonomická škola.md",
+            "mode": "source"
           }
         }
       }
@@ -39,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#history",
+                "query": "ekonom",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,7 +59,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -68,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dejepis otazky.md",
+                "file": "Rakouská ekonomická škola.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +98,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a1c84fb51bb35539",
+  "active": "57e895eff71f404f",
   "lastOpenFiles": [
-    "Dejepis otazky.md",
-    "Německá menšina v pohraničí.md",
-    "Notes/První republika.md",
-    "Koaliční vlády.md",
-    "Notes/Dejepis otazky.md",
-    "Notes/Keynesiánství.md",
-    "Notes/Monetarismus.md",
+    "Rakouská ekonomická škola.md",
     "Notes/Ekonmické směry.md",
-    "Notes/Marxismus.md",
-    "Notes/Neoklasická ekonomie.md"
+    "Islám.md",
+    "Notes/Menstruační a ovulační cyklus.md",
+    "Notes/Těhotenství.md",
+    "Notes/Porod.md",
+    "Notes/Ontogeneze.md",
+    "Notes/Funkční styly.md",
+    "Notes/Slohové postupy.md",
+    "Notes/První republika.md"
   ]
 }

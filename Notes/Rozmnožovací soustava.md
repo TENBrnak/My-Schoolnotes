@@ -18,6 +18,6 @@ Chromozom = stočené DNA
 Mužské pohlavní orgány:
 [[Varlata]], [[Prostata]], [[Penis]]
 Other:
-[[Těhotenství]], [[Ontogeneze]], [[Placenta]]
+[[Těhotenství]], [[Ontogeneze]], [[Placenta]], [[Menstruační a ovulační cyklus]], [[Porod]]
 ![[IMG-3814 (1).jpg]]
 #biologie

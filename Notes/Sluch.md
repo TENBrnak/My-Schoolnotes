@@ -1,0 +1,3 @@
+# Sluch
+![[sluch.jpg]]
+#biologie 

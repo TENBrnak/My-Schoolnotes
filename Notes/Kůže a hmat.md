@@ -35,4 +35,5 @@ uložena Vaterova-paciniho tělíska pro vnímání hluboké citlivosti
 # Hmat
 vjem tlaku, bolesti, teploty, vpichu a vibrací
 nejvíce receptorů na končcích prstů a jazyka, nejměně na zádech
+![[kuze.jpg]]
 #biologie 
