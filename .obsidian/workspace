@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f39900b66b220fa9",
+        "id": "ca1a2de814f5d4a5",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Notes/Ekonmické směry.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "57e895eff71f404f",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Rakouská ekonomická škola.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -50,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ekonom",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -59,8 +45,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -80,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rakouská ekonomická škola.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,17 +82,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "57e895eff71f404f",
+  "active": "ca1a2de814f5d4a5",
   "lastOpenFiles": [
-    "Rakouská ekonomická škola.md",
-    "Notes/Ekonmické směry.md",
-    "Islám.md",
-    "Notes/Menstruační a ovulační cyklus.md",
-    "Notes/Těhotenství.md",
-    "Notes/Porod.md",
-    "Notes/Ontogeneze.md",
-    "Notes/Funkční styly.md",
-    "Notes/Slohové postupy.md",
-    "Notes/První republika.md"
+    "Notes/Dejepis otazky.md",
+    "Notes/Dejepis otazky 1.md",
+    "Notes/Social/Instituciální ekonomie.md",
+    "Notes/Social/Ekonmické směry.md",
+    "Notes/History/Korporativismus.md",
+    "Notes/Physics/Postuláty teorie relativity.md",
+    "Notes/Social/Fyziokratismus.md",
+    "Notes/Czech/Amerika.md",
+    "Notes/Bio/Prodloužená mícha.md",
+    "Notes/Bio/Prostata.md"
   ]
 }
