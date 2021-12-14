@@ -82,4 +82,7 @@ rudozelená koalice = sociální demokraté, socialisté a agrárníci
 vláda úřednická = sestavená z odborníků
 
 široká koalice = koalice čekých i německých stran
+
+nepřátelé Československa = Maďarsko, Německo, Polsko
+spojenci Československa = Francie
 #history 

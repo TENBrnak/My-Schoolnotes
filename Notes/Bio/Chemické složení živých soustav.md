@@ -31,7 +31,39 @@ sacharóza = glukóza + fruktóza
 
 - polysacharidy
 propejení mnoha sacharidů
-škrob
-celulóza
-glykogen
+škrob = v bramborách, kukuřici, rýži apod. -> zásobárna energie pro rostliny
+celulóza = nachází se v buněčné stěně u rostlin, vláknina, stavební/strukturní funkce
+glykogen = živočišný škrob
+
+2. bílkoviny
+v živočišných produktech = mléko, maso, vajíčka
+ale i v luštěninách
+základní složka = aminokyseliny
+-> svaly
+-> nehty, vlasy
+-> kosti = osein
+-> enzymy
+-> imunitní systém
+-> hormony
+
+3. tuky = lipidy
+v olejích, ořeších
+naprosto nerozpustné ve vodě
+
+
+- Funkce:
+dlouhodobý zdroj energie
+termoregulace
+ochrana orgánů
+obsahuje v tucích rozpustné vitamíny (A, D, E, K)
+
+4. Nukleové kyseliny
+[[DNA]] a [[RNA]]
+základem je vždy cukr
+u DNA i RNA jsou tzv. báze udávající genetickou informaci
+=> adenin, thymin, guanin, eytonin = DNA
+=> adenin, uracil, guanin, eytonin = RNA
+fosfát
+vždy DNA i RNA jako pomoc
+jen RNA u některých virů
 #biologie 

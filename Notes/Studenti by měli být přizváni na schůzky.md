@@ -1,4 +1,4 @@
-# Studenti by měli být přizváni na rodičovské schůzky
+ # Studenti by měli být přizváni na rodičovské schůzky
 
 Argumenty:
 1. přímá komunikace mezi studenty a učitely bez prostředníka (rodičů) je efektivnější
