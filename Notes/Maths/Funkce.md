@@ -5,9 +5,6 @@
 
 
 
-
-
-
 #### udává se definiční obor "D" == legální input
 
  #### udává se také obor hodnot "H" == všechen output given D
